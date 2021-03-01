@@ -1,8 +1,8 @@
 <template>
-  <nav class="navbar is-link">
+  <nav class="navbar is-link" role="navigation" aria-label="main navigation">
     <div class="container">
       <div class="navbar-start">
-        <a class="navbar-item">Blog</a>
+        <a class="navbar-item has-text-white">Blog</a>
       </div>
       <div class="navbar-end">
         <span class="navbar-item">
